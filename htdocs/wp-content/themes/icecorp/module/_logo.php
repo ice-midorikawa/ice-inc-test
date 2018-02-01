@@ -1,0 +1,1 @@
+<?php importTemplate( 'svg/_logo' ); ?>

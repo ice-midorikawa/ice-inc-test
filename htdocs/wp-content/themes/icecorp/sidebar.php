@@ -1,0 +1,6 @@
+<?php
+/**
+ * サイドバーページ
+ *
+ * @package WordPress
+ */
