@@ -12,7 +12,7 @@ Edit the permalink of custom post type.
 [![Build Status](https://travis-ci.org/torounit/custom-post-type-permalinks.svg)](https://travis-ci.org/torounit/custom-post-type-permalinks)
 [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/ja/address/3HwkojX2pd9wc5kPFdXnDXMTNbgBmPRygX)
 [![Gratipay](https://img.shields.io/gratipay/team/custom-post-type-permalinks.svg)](https://gratipay.com/Custom-Post-Type-Permalinks/)
-[![](https://torounit.com/wp-content/uploads/2011/11/banner-772x250.png)](https://wordpress.org/plugins/custom-post-type-permalinks/)
+[![](https://ps.w.org/custom-post-type-permalinks/assets/banner-1544x500.png?rev=1044335)](https://wordpress.org/plugins/custom-post-type-permalinks/)
 
 ## Description
 
@@ -72,6 +72,15 @@ That's it. You can access the permalinks setting by going to *Settings -> Permal
 
 
 ## Changelog
+
+### 3.2.0
+* Support only public post type.
+* Add `CPTP_is_rewrite_supported_by_${post_type}` and `CPTP_is_rewrite_supported` filter.
+* Remove post_type query wp_get_archives.
+
+### 3.1.4
+* Test for WordPress 4.9.
+* PHPCS fix.
 
 ### 3.1.3
 

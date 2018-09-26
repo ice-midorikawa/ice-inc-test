@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Please enter username and password."
+AuthUserFile /nfs/contents1/ice/test.ice-inc.co.jp/secure/password
+AuthGroupFile /dev/null
+Require valid-user

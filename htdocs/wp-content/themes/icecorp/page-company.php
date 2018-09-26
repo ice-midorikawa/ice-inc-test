@@ -81,7 +81,7 @@
 												</dl>
 												<dl class="employee">
 													<dt class="employee-position">取締役</dt>
-													<dd class="employee-name">二宮 宏文</dd>
+													<dd class="employee-name">山手 章弘</dd>
 												</dl>
 												<dl class="employee">
 													<dt class="employee-position">監査役</dt>

@@ -114,10 +114,11 @@
                                             <select class="input-select-tag" name="q6_1">
                                                 <option value="1">制作運営について</option>
                                                 <option value="2">QuickBooksについて</option>
-                                                <option value="3">PrimeEnglishについて</option>
-                                                <option value="4">女子カレLOVABLEについて</option>
-                                                <option value="5">採用について</option>
-                                                <option value="6">その他</option>
+                                                <option value="3">女子カレLOVABLEについて</option>
+                                                <option value="4">PrimeEnglishについて</option>
+                                                <option value="5">HappyEnglishについて</option>
+                                                <option value="6">採用について</option>
+                                                <option value="7">その他</option>
                                             </select>
                                             <div class="input-select-icon">
                                                 <i class="arrow-icon arrow-icon-bottom"></i>
